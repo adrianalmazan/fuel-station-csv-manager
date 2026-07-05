@@ -35,8 +35,9 @@ fuel-station-csv-manager/
 ├── data/
 │   └── fuel_prices_albacete.csv
 │
-├── README.md
 ├── .gitignore
+├── LICENSE
+├── README.md
 ```
 
 ## Compilation
@@ -74,6 +75,16 @@ Select an action:
 6. Sort records by price
 7. Exit
 ```
+
+## Skills Demonstrated
+
+- Dynamic memory management
+- File I/O
+- CSV parsing
+- Data structures
+- Modular programming
+- Sorting algorithms using qsort
+- Error handling
 
 ## Author
 
